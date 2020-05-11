@@ -1,0 +1,106 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pricer/1.0.0": {
+        "dependencies": {
+          "System.Web.DataVisualization": "4.0.0.0",
+          "System.Windows.Forms.DataVisualization": "4.0.0.0",
+          "System.Windows.Forms": "4.0.0.0"
+        },
+        "runtime": {
+          "Pricer.dll": {}
+        }
+      },
+      "System.Web.DataVisualization/4.0.0.0": {
+        "runtime": {
+          "System.Web.DataVisualization.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.1"
+          }
+        }
+      },
+      "System.Windows.Forms.DataVisualization/4.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.DataVisualization.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.1"
+          }
+        }
+      },
+      "System.Windows.Forms/4.0.0.0": {
+        "runtime": {
+          "System.Windows.Forms.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.1"
+          }
+        }
+      },
+      "Accessibility/4.0.0.0": {
+        "runtime": {
+          "Accessibility.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.1"
+          }
+        }
+      },
+      "System.Runtime.Serialization.Formatters.Soap/4.0.0.0": {
+        "runtime": {
+          "System.Runtime.Serialization.Formatters.Soap.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.1"
+          }
+        }
+      },
+      "System.Deployment/4.0.0.0": {
+        "runtime": {
+          "System.Deployment.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30319.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pricer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Web.DataVisualization/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms.DataVisualization/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Windows.Forms/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accessibility/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Runtime.Serialization.Formatters.Soap/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Deployment/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
